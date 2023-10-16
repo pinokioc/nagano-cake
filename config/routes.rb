@@ -13,7 +13,7 @@ Rails.application.routes.draw do
   get 'item/show'
   get 'item/edit'
   get 'item/update'
-  get 'home/top'
+  get 'hoems/top'
   get 'session/new'
   get 'session/create'
   get 'session/destroy'
