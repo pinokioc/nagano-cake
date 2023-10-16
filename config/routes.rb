@@ -1,5 +1,5 @@
 Rails.application.routes.draw do
-  devise_for :users
+  devise_for :customers
   get 'order_detail/update'
   get 'order/show'
   get 'order/update'
